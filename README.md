@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an IDE and a note taking app<br>🤝 I’m looking for help with the IDE<br>🌱 I’m currently learning TypeScript
+🔭 I’m currently working on a react native password management mobile app<br>🌱 I’m currently learning TypeScript
 
 
 # 💻 Tech Stack:
