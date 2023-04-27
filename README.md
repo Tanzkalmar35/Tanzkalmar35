@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a react native password management mobile app<br>🌱 I’m currently learning TypeScript
+🔭 I’m currently working on a react native password management mobile app as well as a remake of my personal portfolio website<br>🌱 I’m currently learning Svelte
 
 
 # 💻 Tech Stack:
