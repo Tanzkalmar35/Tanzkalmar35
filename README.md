@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm an 19-year-old software developer with a passion for creating innovative and impactful solutions. I love to build software that solves complex problems and helps make people's lives easier. With a strong foundation in programming languages such as Java, JavaScript and TypeScript, I am constantly expanding my skillset to stay on top of the latest trends and advancements in the tech industry. When I'm not coding, you can find me exploring new technologies and experimenting with new ideas.
+Hi there, I'm an 20-year-old software developer with a passion for creating innovative and impactful solutions. I love to build software that solves complex problems and helps make people's lives easier. With a strong foundation in programming languages such as Java, JavaScript and TypeScript, I am constantly expanding my skillset to stay on top of the latest trends and advancements in the tech industry. When I'm not coding, you can find me exploring new technologies and experimenting with new ideas.
 
 If you want, visit [my portfolio.](https://fabianholler.netlify.app)
 
